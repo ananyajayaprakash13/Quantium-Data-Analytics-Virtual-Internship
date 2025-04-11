@@ -39,8 +39,9 @@ This simulation focused on extracting customer insights and presenting commercia
 - Summarized commercial insights and recommendations using the Pyramid Principle.
 - Created a stakeholder-friendly report in PowerPoint to guide strategic planning for the Category Manager.
 - Focused on visual storytelling and actionable business outcomes.
+- 
+📄 [Category Review Report (PDF)](./Category-Review.pdf)
 
-📄 *Report Available on Request*
 
 ---
 
